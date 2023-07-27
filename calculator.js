@@ -4,3 +4,4 @@
   - We should show the result in Prompt so that it can be used again to perform more calculation
   - Can add more features if required.
 */
+let exp = prompt("Please provide the expression for Calculation")
