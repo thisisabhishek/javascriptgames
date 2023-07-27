@@ -6,4 +6,3 @@
 */
 
 alert("Welcome to Calculator App.\n\nPress Ok to start.")
-let userInput = prompt("Specify expression for Calculation")
